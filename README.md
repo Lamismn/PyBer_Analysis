@@ -13,5 +13,22 @@ The purpose of this analysis is to help the application team understand trends a
 4. Create a summary dataframe showing the Total Rides,	Total Drivers,	Total Fares	Average, Fare per Ride	Average, & Fare per Driver for each city type
 5. Separate & analyze the data from a specific time frame of interest & show the relation between teh total fare & the date for each city type
 ## Results
+After analyzing the data, the following was concluded:
 
+1. The type of city has a direct and strong effect on the number of drivers available, number of rides & ultimately the average fare
+
+![Fig1](https://user-images.githubusercontent.com/79733383/113519825-b5873900-955c-11eb-9dd9-0fa41d14bd13.png)
+
+As shown in the above figure, we can see that cities that fall under the Urban category have the highest number of rides, highest number of drivers & a the lowest fare average, whereas the cities that fall in the Rural category haeve the lowest number of rides, lowest number of drivers & highest fare average, and cities that are Suburban lie in the middle.
+2. We can see that the dataset provided has only one outlier, in the urban category, where West Angela city has 39 rides
+
+![Fig2](https://user-images.githubusercontent.com/79733383/113519930-90df9100-955d-11eb-9f85-7d680da3072b.png)
+
+![Fig3](https://user-images.githubusercontent.com/79733383/113520035-4f9bb100-955e-11eb-8c31-86bd5719826d.png)
+
+![Fig4](https://user-images.githubusercontent.com/79733383/113520039-56c2bf00-955e-11eb-941a-d0b140b8e240.png)
+
+
+we can also see from the above figures that the ride counts for Urban cities vary from 12 to 39 with a mean of 24.5 rides per city, and that this number goes down to 17.3 rides per city for Suburban cities & to 6.9 rides per city for Rural cities.
+3. 
 
