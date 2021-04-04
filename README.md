@@ -40,6 +40,11 @@ The above figures also show that the mean fare for Urban city trips is around 24
 
 As seen in the above charts, Urban cities represent the highest percentages in all three categories.
 
-4. 
+4. After sparating a specific time frame of interest & studying it (from 1.1.2019 to 4.29.2019), the final analysis resulted the following chart:
 
+![Total Fare by city type](https://user-images.githubusercontent.com/79733383/113520616-47de0b80-9562-11eb-9fe1-dc20f2b10306.png)
 
+The above chart shows that the total fare for Urban cities for this period is almost four times that of Rural cities & twice that of Suburban cities. 
+
+It also shows that the total fare in Urban cities was more in March & April than in January & February, the same relation can be seen in Suburban cities, but is not present in Rural cities. Rural cities total fares seem to be almost constant with only one small spike in the first month of April.
+## Summary
