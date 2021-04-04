@@ -2,7 +2,8 @@
 ## Overview
 This Analysis uses data from a python based ride sharing application database to create some visual charts, using Jupyter notebook, Pandas libraries & Matplotlib, to show the relations between number of drivers, city types, & fares.
 ### Background
-The analysis uses two csv files from the ride sharing application, showing the city data (city type, number of drivers) & the ride data (fare, and date & time)
+The analysis uses two csv files from the ride sharing application, showing the city data (city type, number of drivers) & the ride data (fare, and date & time). The files are available on the following link:
+https://github.com/Lamismn/PyBer_Analysis/tree/main/Resources
 ### Purpose
 The purpose of this analysis is to help the application team understand trends and relations to be able to improve access to ride sharing services & determine affordability in under-served neighborhoods, to do this, we study the following:
 
