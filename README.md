@@ -40,7 +40,7 @@ The above figures also show that the mean fare for Urban city trips is around 24
 
 As seen in the above charts, Urban cities represent the highest percentages in all three categories.
 
-4. After sparating a specific time frame of interest & studying it (from 1.1.2019 to 4.29.2019), the final analysis resulted the following chart:
+4. After sparating a specific period of interest & studying it (from 1.1.2019 to 4.29.2019), the final analysis resulted the following chart:
 
 ![Total Fare by city type](https://user-images.githubusercontent.com/79733383/113520616-47de0b80-9562-11eb-9fe1-dc20f2b10306.png)
 
@@ -48,3 +48,11 @@ The above chart shows that the total fare for Urban cities for this period is al
 
 It also shows that the total fare in Urban cities was more in March & April than in January & February, the same relation can be seen in Suburban cities, but is not present in Rural cities. Rural cities total fares seem to be almost constant with only one small spike in the first month of April.
 ## Summary
+Based on the Analysis and charts shown, we can conclude that there is a clear negative correlation between the number of drivers available in the city & the average fare, we can also see a negative correlation between the average fare and the total number of rides, whereas the relation between the number of rides correlates positively to the number of drivers available. We can also see that even though the average fare for Rural cities is the highest, the percentage of total fares is the lowest.
+
+Even though it's expected for number of drivers & number of rides to be highest in the Urban areas lowest in the Rural, the significant difference in average fare shows that there is also a shortage in drivers there and that there is a need for more drivers, which means that it help if the application tried recruiting more drivers in Rural areas.
+
+The very low count rides in rural cities mean that the low number of drivers & increased fare mean that people are not inclined to use the application, or that they do not know about it, a way to solve that would be advertising more in those areas and offering discounts for new users to encourage them to join.
+
+Finally, another way to solve both the low driver count and low number of rides for Rural cities would be for the application to offer more incentives for drivers in those areas to join as well as decrease their targeted margin to allow for a decreased average fare.
+
