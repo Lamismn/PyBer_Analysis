@@ -29,6 +29,19 @@ As shown in the above figure, we can see that cities that fall under the Urban c
 ![Fig4](https://user-images.githubusercontent.com/79733383/113520039-56c2bf00-955e-11eb-941a-d0b140b8e240.png)
 
 
-we can also see from the above figures that the ride counts for Urban cities vary from 12 to 39 with a mean of 24.5 rides per city, and that this number goes down to 17.3 rides per city for Suburban cities & to 6.9 rides per city for Rural cities.
-3. 
+we can also see from the above figures that the ride counts for Urban cities vary from 12 to 39 with a mean of 24.5 rides per city, and that this mean goes down to 17.3 rides per city for Suburban cities & to 6.9 rides per city for Rural cities.
+
+The above figures also show that the mean fare for Urban city trips is around 24.5$, this number goes up to around 30$ for Suburban cities & 34$ for Rural cities. And that the average number of drivers for Urban cities is 37, and that this number goes down to 14 for Suburban cities & just 4 for Rural cities.
+3. The analysis also determined the percentages of total fare, total number of drivers & total number of rides for each city type, those results can be shown in the following charts:
+
+![Fig5](https://user-images.githubusercontent.com/79733383/113520499-7f988380-9561-11eb-9957-9b31fec62be6.png)
+
+![Fig6](https://user-images.githubusercontent.com/79733383/113520502-86bf9180-9561-11eb-90d6-759aa5e08374.png)
+
+![Fig7](https://user-images.githubusercontent.com/79733383/113520511-8d4e0900-9561-11eb-8ec6-68afca4484fd.png)
+
+As seen in the above charts, Urban cities represent the highest percentages in all three categories.
+
+4. 
+
 
