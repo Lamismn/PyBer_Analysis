@@ -35,9 +35,7 @@ The above figures also show that the mean fare for Urban city trips is around 24
 3. The analysis also determined the percentages of total fare, total number of drivers & total number of rides for each city type, those results can be shown in the following charts:
 
 ![Fig5](https://user-images.githubusercontent.com/79733383/113520499-7f988380-9561-11eb-9957-9b31fec62be6.png)
-
 ![Fig6](https://user-images.githubusercontent.com/79733383/113520502-86bf9180-9561-11eb-90d6-759aa5e08374.png)
-
 ![Fig7](https://user-images.githubusercontent.com/79733383/113520511-8d4e0900-9561-11eb-8ec6-68afca4484fd.png)
 
 As seen in the above charts, Urban cities represent the highest percentages in all three categories.
